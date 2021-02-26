@@ -1,10 +1,10 @@
 import "./App.css";
 
 // rotes
-import Routes from "./routes";
+import Routes from "src/routes";
 
 // components
-import MenuBar from "./components/Menu";
+import MenuBar from "src/components/Menu";
 
 function App() {
   return (
